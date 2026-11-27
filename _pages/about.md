@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Runxun Zhang (章润勋), a Master's student at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jingwei Wei. I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026 (rank 4/118).
+Hi there! I am Runxun Zhang (章润勋), a Master's student at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jingwei Wei. I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026.
 
 My research interest is in **LLM agents and agentic reinforcement learning**: how an agent should decide what to trust, what to call, and how to learn from verifiable feedback. My recent work includes applying GRPO-style policy optimization to dense prediction (MorphSeek, CVPR 2026 Highlight), and governing tool outputs for medical agents (evidence hijacking and CIEG). I was the algorithm lead of a team that won first prize in the 2026 National Medical Insurance Imaging AI Competition (chest X-ray track). Before that, I worked on analog and RF integrated circuit design, including a TSMC 65nm tape-out. MorphSeek grew out of my 2025 internship at CASIA on a multi-phase abdominal MRI foundation model, where I built the data pipeline, including multi-center registration.
 
@@ -113,4 +113,4 @@ Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
 
 # 📖 Educations
 - *2026.09 - now*, Master's student, Institute of Automation, Chinese Academy of Sciences, Beijing. Advisor: Prof. Jingwei Wei.
-- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University. GPA 4.07/5.0, rank 4/118.
+- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University.
