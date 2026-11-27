@@ -21,9 +21,22 @@ For collaborations or any questions, feel free to reach me at zhangrunxun2026[at
 # 🔥 News
 <!-- TODO: 日期需要你确认,以下为按已有材料的草稿 -->
 - *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026! <!-- TODO: 确认录用时间 -->
+- *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="CIEG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents](https://arxiv.org/abs/2611.22169)
+
+**Runxun Zhang**, Onofrio Antonio Catalano, Jinqiao Wang, Jingwei Wei
+
+[**arXiv**](https://arxiv.org/abs/2611.22169)
+- Identifies "evidence hijacking" in tool-augmented medical agents and proposes CIEG: an independent checker decides which tool outputs may enter as evidence. Training-free; best accuracy at comparable scale on MedQA, MedMCQA, NEJM, fundus glaucoma and chest X-ray pneumonia.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="MorphSeek" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
