@@ -23,6 +23,8 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 - *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
 - *2026.11*: &nbsp;🏅 Received the First Prize at the [award ceremony](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) of the 2026 National Medical Insurance Imaging AI Competition in Nanning.
 - *2026.10*: &nbsp;🥇 First Prize (one of 23 among 1,332 teams) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
+- *2026.06*: &nbsp;🎓 My undergraduate thesis was selected as an Outstanding Undergraduate Thesis of Sun Yat-sen University (Class of 2026).
+- *2026.06*: &nbsp;🎓 Honored as an Outstanding Graduate of Sun Yat-sen University (Class of 2026).
 - *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight**!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
 - *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025 as an **oral** presentation.
