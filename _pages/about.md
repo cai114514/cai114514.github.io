@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! I am Runxun Zhang (章润勋), a Master's student at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jingwei Wei. I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026.
 
-My research focuses on **LLM agents** and **agentic reinforcement learning**, with applications in medical AI. Before that, I worked on analog and RF integrated circuit design.
+My research focuses on **LLM agents** and **agentic reinforcement learning**, with applications in medical AI. Before that, I worked on analog and RF integrated circuit design. Visit my [Google Scholar](https://scholar.google.com/citations?user=VK4upJIAAAAJ) profile for the full list of publications.
 
 For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.ac.cn.
 
