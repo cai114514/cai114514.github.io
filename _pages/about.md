@@ -18,20 +18,14 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 
 # 🔥 News
-- *2026.11*: &nbsp;📺 Interviewed by [Xinhua News Agency](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin) on cross-disciplinary medical AI.
-- *2026.11*: &nbsp;🎤 Presented our competition results at the Champions Forum (群英会), Chinese Congress of Radiology 2026, Beijing.
 - *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
-- *2026.11*: &nbsp;🏅 Received the First Prize at the [award ceremony](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) of the 2026 National Medical Insurance Imaging AI Competition in Nanning.
-- *2026.10*: &nbsp;🥇 First Prize (one of 23 among 1,332 teams) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
-- *2026.06*: &nbsp;🎓 My undergraduate thesis was selected as an Outstanding Undergraduate Thesis of Sun Yat-sen University (Class of 2026).
-- *2026.06*: &nbsp;🎓 Honored as an Outstanding Graduate of Sun Yat-sen University (Class of 2026).
-- *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight**!
+- *2026.11*: &nbsp;🏅 Received the First Prize at the [award ceremony](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) in Nanning, interviewed by [Xinhua News Agency](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin), and invited to present at the Champions Forum (群英会) of the Chinese Congress of Radiology 2026, Beijing.
+- *2026.10*: &nbsp;🥇 **First Prize** (one of 23 among 1,332 teams) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
+- *2026.06*: &nbsp;🎓 Honored as an **Outstanding Graduate** of Sun Yat-sen University (≤5% of graduates), and my undergraduate thesis was selected as an **Outstanding Undergraduate Thesis** (≤5% of theses).
+- *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight** (575 of 16,092 valid submissions, top 3.6%)!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
 - *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025 as an **oral** presentation.
-- *2025.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (Second Class).
-- *2024.10*: &nbsp;🏆 Received the National Scholarship.
-- *2024.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (First Class) for the second time.
-- *2023.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (First Class).
+- *2024.10*: &nbsp;🏆 Received the **National Scholarship** (top 0.2% nationwide).
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/fig_cieg.jpg' alt="CIEG" width="100%"></div></div>
@@ -54,6 +48,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 **Runxun Zhang\***, Yizhou Liu, Dongrui Li, Bo Xu, Jingwei Wei\*
 
 [**arXiv**](https://arxiv.org/abs/2511.17392) &nbsp; [**CVF Open Access**](https://openaccess.thecvf.com/CVPR2026?day=all) &nbsp; [**Code**](https://github.com/cai114514/MorphSeek)
+- **CVPR 2026 Highlight**: 575 of 16,092 valid submissions (top 3.6%).
 - Reformulates deformable image registration as policy optimization in the latent feature space, trained with GRPO. Consistent Dice gains on OASIS, LiTS and Abdomen MR-CT with minimal parameter cost.
 </div>
 </div>
@@ -141,14 +136,22 @@ Undergraduate research with [Prof. Gengzhen Qi](https://mst.sysu.edu.cn/teacher/
 </div>
 
 # 🎖 Honors and Awards
+
+**Competitions**
+
 - *2026.10* First Prize (Final; one of 23 among 1,332 teams) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
-- *2025.10* Outstanding Undergraduate Scholarship (Second Class), Sun Yat-sen University
-- *2024.10* National Scholarship (Undergraduate), Ministry of Education of China
-- *2024.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
-- *2023.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
 - *2024.07* Third Prize (South China Region), 8th National College IC Innovation and Entrepreneurship Competition (IEEE Cup)
 - *2024.02* Honorable Mention, MCM (Mathematical Contest in Modeling)
 - *2023.12* Provincial Second Prize, 5th National College Mathematics Competition (Guangdong)
+
+**Scholarships & Titles**
+
+- *2026.06* Outstanding Graduate, Sun Yat-sen University (≤5% of graduates)
+- *2026.06* Outstanding Undergraduate Thesis, Sun Yat-sen University (≤5% of theses)
+- *2025.10* Outstanding Undergraduate Scholarship (Second Class), Sun Yat-sen University
+- *2024.10* National Scholarship (Undergraduate), Ministry of Education of China (top 0.2% nationwide)
+- *2024.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
+- *2023.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
 
 # 📖 Educations
 - *2026.09 - now*, Master's student, Institute of Automation, Chinese Academy of Sciences, Beijing. Advisor: [Prof. Jingwei Wei](https://weijingwei-ai-research.github.io/zh/).
