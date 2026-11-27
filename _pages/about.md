@@ -8,51 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<!-- TODO(讨论后补全): 硕士所在单位/导师/入学年份确认后再改这一段 -->
+Hi there! I am Runxun Zhang (章润勋). I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026, ranking 4/118. I am now working at the Institute of Automation, Chinese Academy of Sciences (CASIA).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest is in **LLM agents and agentic reinforcement learning**. My recent work applies policy optimization (GRPO) to dense prediction problems: MorphSeek reformulates deformable image registration as representation-level policy optimization. Before that, I worked on analog and RF integrated circuit design, including a tape-out of a 4-channel time-interleaved SAR ADC (TSMC 65nm) and linearized CMOS power amplifiers.
+
+For collaborations or any questions, feel free to reach me at zhangrunxun2026[at]ia.ac.cn.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- TODO: 日期需要你确认,以下为按已有材料的草稿 -->
+- *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026! <!-- TODO: 确认录用时间 -->
+- *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="MorphSeek" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration](https://arxiv.org/abs/2511.17392)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Runxun Zhang\***, Yizhou Liu, Dongrui Li, Bo Xu, Jingwei Wei\*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**arXiv**](https://arxiv.org/abs/2511.17392)
+- Reformulates deformable image registration as policy optimization in the latent feature space, trained with GRPO. Consistent Dice gains on OASIS, LiTS and Abdomen MR-CT with minimal parameter cost.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025</div><img src='images/500x300.png' alt="PA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 2.4–2.6 GHz CMOS High Linearity Power Amplifier with MGTR and Harmonic Trap Techniques
+
+**Runxun Zhang**, Gengzhen Qi
+
+- 65nm CMOS PA: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm. <!-- TODO: 确认是否已正式发表/收录 -->
+</div>
+</div>
+
+\* indicates equal contribution.
+
+<!-- TODO: Projects 板块,等我们讨论完哪些值得放再加(开源项目、Agent/RL 相关工作优先) -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship (Undergraduate), Ministry of Education of China
+- *2024.07* Third Prize (South China Region), 8th National College IC Innovation and Entrepreneurship Competition (IEEE Cup)
+- *2024.02* Honorable Mention, MCM (Mathematical Contest in Modeling)
+- *2023.12* Provincial Second Prize, 5th National College Mathematics Competition (Guangdong)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.09 - now*, Master's student, <!-- TODO: 单位/导师 -->Institute of Automation, Chinese Academy of Sciences, Beijing. 
+- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University. GPA 4.07/5.0, rank 4/118. <!-- TODO: 确认入学/毕业年份 -->
