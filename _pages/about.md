@@ -18,6 +18,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 
 # 🔥 News
+- *2026.11*: &nbsp;📺 Interviewed by [Xinhua News Agency](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin) on cross-disciplinary medical AI.
 - *2026.11*: &nbsp;🎤 Presented our competition results at the Champions Forum (群英会), Chinese Congress of Radiology 2026, Beijing.
 - *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
 - *2026.11*: &nbsp;🏅 Received the First Prize at the award ceremony of the 2026 National Medical Insurance Imaging AI Competition.
@@ -72,16 +73,29 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 # 🛠 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/ccr2026_talk.jpg' alt="CCR 2026 talk" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/mic2026_award_talk.jpg' alt="Award ceremony talk, Nanning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Detector Consensus for Chest X-ray Screening** (2026 National Medical Insurance Imaging AI Competition, Track 8)
 
-Algorithm lead, Institute of Automation, CAS. Team X-Vision.
+Algorithm lead, Team X-Vision (Institute of Automation, CAS).
 
 - Designed the full algorithm pipeline: anatomy-aware quality control and a "consult-style" detector ensemble in which heterogeneous detectors nominate findings and an independent model reviews them before a learned arbiter makes the final call.
-- **1st place** in the preliminary round, **First Prize** in the final. Presented at the final defense, the award ceremony, the Champions Forum of the Chinese Congress of Radiology 2026, and the results-transfer meeting in Guangxi.
-- In a 100k-case screening cohort, reviewing the top 20% by risk score covered 93.7%–98.2% of positives for the evaluated findings.
+- **1st place** in the preliminary round (124.37 pts) and **First Prize** in the final, chest X-ray self-built model group.
+- Presented the work at the final defense and the award ceremony in Nanning; the ceremony was covered by Guangxi News.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Clinical</div><img src='images/ccr2026_experts.jpg' alt="CCR 2026 with radiology experts" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Competition to Clinic: Recognition by Radiology Experts** (CCR 2026 Champions Forum · Xinhua interview)
+
+[**Xinhua Interview**](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin)
+
+- Invited to present our results at the Champions Forum (群英会) of the 33rd Chinese Congress of Radiology (CCR 2026, Beijing). Together with a core teammate, met Prof. Min Chen and Prof. Jie Lu, Chair and Vice Chair of the Chinese Society of Radiology (pictured).
+- In a 100k-case real-world screening cohort, reviewing the top 20% by risk score covered 93.7%–98.2% of positives for the evaluated findings. The model is in clinical demonstration with our partner team at Zhongda Hospital, Southeast University, and other tertiary hospitals.
+- Invited to the results-transfer meeting hosted by the Guangxi Department of Science and Technology, and interviewed by Xinhua News Agency on how algorithm, clinical and industry perspectives shape medical AI.
 </div>
 </div>
 
@@ -122,4 +136,4 @@ Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
 
 # 📖 Educations
 - *2026.09 - now*, Master's student, Institute of Automation, Chinese Academy of Sciences, Beijing. Advisor: [Prof. Jingwei Wei](https://weijingwei-ai-research.github.io/zh/).
-- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University.
+- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University. Advisor: [Prof. Gengzhen Qi](https://mst.sysu.edu.cn/teacher/439).
