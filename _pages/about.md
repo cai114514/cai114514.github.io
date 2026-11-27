@@ -80,9 +80,9 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 Algorithm lead, Team X-Vision (Institute of Automation, CAS).
 
-[**Official Report (NHSA)**](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) &nbsp; [**Xinhua Interview**](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin)
+[**Official Report (NHSA)**](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) &nbsp; [**Xinhua Interview**](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin) &nbsp; [**CCTV-13 Coverage**](https://tv.cctv.com/2026/11/06/VIDEvifuK7DPw0YsV4szsTJj261106.shtml)
 
-- The first national-level medical insurance imaging AI competition, co-hosted by the National Healthcare Security Administration and the Guangxi Government: 1,332 teams across 8 disease tracks, 23 First Prizes in total.
+- The first national-level medical insurance imaging AI competition, co-hosted by the National Healthcare Security Administration and the Guangxi Government and covered by CCTV-13 *Morning News* (朝闻天下): 1,332 teams across 8 disease tracks, 23 First Prizes in total.
 - Designed the full algorithm pipeline: anatomy-aware quality control and a "consult-style" detector ensemble in which heterogeneous detectors nominate findings and an independent model reviews them before a learned arbiter makes the final call.
 - **1st place** in the preliminary round (124.37 pts) and **First Prize** in the final, chest X-ray self-built model group.
 - Presented at the final defense and the award ceremony in Nanning, where awards were presented by national and regional leaders. Interviewed by Xinhua News Agency, and invited to the results-transfer meeting hosted by the Guangxi Department of Science and Technology.
@@ -111,18 +111,32 @@ Algorithm lead, Team X-Vision (Institute of Automation, CAS).
 
 # 🧪 Earlier Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tape-out</div><img src='images/sar_adc_layout.jpg' alt="SAR ADC layout" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSMC 65nm Tape-out</div><img src='images/sar_adc_layout.jpg' alt="SAR ADC layout" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4-channel 8-bit 800 MSPS Time-Interleaved SAR ADC** (TSMC 65nm tape-out, 2024.11 - 2026.01)
+**4-channel 8-bit 800 MSPS Time-Interleaved SAR ADC** (TSMC 65nm, 2024.11 - 2026.01)
 
 Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
 
-- Designed one 8-bit 200 MSPS asynchronous sub-SAR ADC: circuit, pre-layout simulation, layout drawing and post-layout simulation. The chip has been fabricated and tested.
+- **Taped out in TSMC 65nm as an undergraduate; the chip has been fabricated and tested.** Took one design from schematic to silicon.
+- Owned one 8-bit 200 MSPS asynchronous sub-SAR ADC end to end: circuit design, pre-layout simulation, full custom layout (pictured) and post-layout verification.
+- Bootstrapped sampling switch, monotonic-switching CDAC, double-tail comparator and a modified direct-path SAR logic. Post-layout (TT, 27 °C, f<sub>in</sub> = 99.41 MHz): **SNDR 48.59 dB, SFDR 54.97 dB**.
+- Worked with two teammates on the time-interleaved architecture, noise shaping and mismatch calibration.
 </div>
 </div>
 
-- **RF power amplifiers** (2023.12 - 2025.12): core member of the team that won the Third Prize (South China Region) at the 8th IEEE Cup IC Innovation and Entrepreneurship Competition with a 2.4 GHz switched-capacitor PA, and of two university innovation projects on NB-IoT transmitters and linearized PAs.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RF Design</div><img src='images/nbiot_tx.jpg' alt="NB-IoT transmitter architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RF Transmitters and Power Amplifiers** (2023.12 - 2025.12)
+
+Undergraduate research with [Prof. Gengzhen Qi](https://mst.sysu.edu.cn/teacher/439), Sun Yat-sen University.
+
+- **NB-IoT transmitter** (university innovation project, pictured): designed the cascode class-AB PA with inductive load, from circuit design and simulation to layout.
+- **2.4 GHz switched-capacitor PA** for the 8th IEEE Cup IC Innovation and Entrepreneurship Competition (post-layout Psat 23.54 dBm, SE 38.03%); Third Prize, South China Region.
+- **Linearized 2.4 GHz CMOS PA** (university innovation project): led to the ICICM 2025 oral paper above.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2026.10* First Prize (Final; one of 23 among 1,332 teams) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
