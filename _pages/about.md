@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! I am Runxun Zhang (章润勋), a Master's student at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jingwei Wei. I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026 (rank 4/118).
 
-My research interest is in **LLM agents and agentic reinforcement learning**: how an agent should decide what to trust, what to call, and how to learn from verifiable feedback. My recent work includes applying GRPO-style policy optimization to dense prediction (MorphSeek, CVPR 2026 Highlight), and governing tool outputs for medical agents (evidence hijacking and CIEG). I was the algorithm lead of a team that won first prize in the 2026 National Medical Insurance Imaging AI Competition (chest X-ray track). Before that, I worked on analog and RF integrated circuit design, including a TSMC 65nm tape-out.
+My research interest is in **LLM agents and agentic reinforcement learning**: how an agent should decide what to trust, what to call, and how to learn from verifiable feedback. My recent work includes applying GRPO-style policy optimization to dense prediction (MorphSeek, CVPR 2026 Highlight), and governing tool outputs for medical agents (evidence hijacking and CIEG). I was the algorithm lead of a team that won first prize in the 2026 National Medical Insurance Imaging AI Competition (chest X-ray track). Before that, I worked on analog and RF integrated circuit design, including a TSMC 65nm tape-out. MorphSeek grew out of my 2025 internship at CASIA on a multi-phase abdominal MRI foundation model, where I built the data pipeline, including multi-center registration.
 
 For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.ac.cn.
 
@@ -51,14 +51,14 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025</div><img src='images/500x300.png' alt="PA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025</div><img src='images/icicm_pa.jpg' alt="PA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A 2.4–2.6 GHz CMOS High Linearity Power Amplifier with MGTR and Harmonic Trap Techniques
 
 **Runxun Zhang**, Gengzhen Qi
 
-- 65nm CMOS PA: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm. <!-- TODO: 确认是否已正式发表/收录 -->
+- Sole first-author work from my undergraduate research. A 65nm CMOS power amplifier that uses multi-gated transistors and a second-harmonic trap to improve linearity (post-layout: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm).
 </div>
 </div>
 
@@ -79,6 +79,31 @@ Algorithm lead, Institute of Automation, CAS. Team X-Vision.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Internship</div><img src='images/intern_mri_clip.jpg' alt="Abdominal MRI foundation model" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-phase Abdominal MRI 3D-CLIP Foundation Model** (Research intern, Zidong Taichu Foundation Model Center, CASIA, 2025.03 - 2025.09)
+
+- A multimodal foundation model for focal liver lesions on multi-phase abdominal MRI (3D image encoder + report text encoder), with downstream detection, classification and diagnosis tasks.
+- Responsible for the data pipeline: integrating MRI sequences from multiple centers, completeness checking, de-duplication, segmentation and registration. The registration problems I met here led to MorphSeek.
+</div>
+</div>
+
+# 🧪 Earlier Work
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tape-out</div><img src='images/sar_adc_layout.jpg' alt="SAR ADC layout" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**4-channel 8-bit 800 MSPS Time-Interleaved SAR ADC** (TSMC 65nm tape-out, 2024.11 - 2026.01)
+
+Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
+
+- Designed one 8-bit 200 MSPS asynchronous sub-SAR ADC: circuit, pre-layout simulation, layout drawing and post-layout simulation. The chip has been fabricated and tested.
+</div>
+</div>
+
+- **RF power amplifiers** (2023.12 - 2025.12): core member of the team that won the Third Prize (South China Region) at the 8th IEEE Cup IC Innovation and Entrepreneurship Competition with a 2.4 GHz switched-capacitor PA, and of two university innovation projects on NB-IoT transmitters and linearized PAs.
+
 # 🎖 Honors and Awards
 - *2026.10* First Prize (Final) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
 - *2024* National Scholarship (Undergraduate), Ministry of Education of China
@@ -88,4 +113,4 @@ Algorithm lead, Institute of Automation, CAS. Team X-Vision.
 
 # 📖 Educations
 - *2026.09 - now*, Master's student, Institute of Automation, Chinese Academy of Sciences, Beijing. Advisor: Prof. Jingwei Wei.
-- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University. GPA 4.07/5.0, rank 4/118. <!-- TODO: 确认入学/毕业年份 -->
+- *2022.09 - 2026.06*, B.Eng. in Microelectronics Science and Engineering, Sun Yat-sen University. GPA 4.07/5.0, rank 4/118.
