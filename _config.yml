@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Runxun Zhang (章润勋)"
-  avatar           : "images/android-chrome-512x512.png"   # TODO: replace with your own photo
-  bio              : "LLM Agents · Agentic RL"
+  avatar           : "images/avatar.png"
+  bio              : "LLM Agents · Agentic RL<br>Institute of Automation, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
