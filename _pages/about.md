@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! I am Runxun Zhang (章润勋), a Master's student at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jingwei Wei. I received my B.Eng. in Microelectronics Science and Engineering from Sun Yat-sen University in 2026.
 
-My research interest is in **LLM agents and agentic reinforcement learning**: how an agent should decide what to trust, what to call, and how to learn from verifiable feedback. My recent work includes applying GRPO-style policy optimization to dense prediction (MorphSeek, CVPR 2026 Highlight), and governing tool outputs for medical agents (evidence hijacking and CIEG). I was the algorithm lead of a team that won first prize in the 2026 National Medical Insurance Imaging AI Competition (chest X-ray track). Before that, I worked on analog and RF integrated circuit design, including a TSMC 65nm tape-out. MorphSeek grew out of my 2025 internship at CASIA on a multi-phase abdominal MRI foundation model, where I built the data pipeline, including multi-center registration.
+My research focuses on **LLM agents** and **agentic reinforcement learning**, with applications in medical AI. Before that, I worked on analog and RF integrated circuit design.
 
 For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.ac.cn.
 
@@ -21,10 +21,14 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 - *2026.11*: &nbsp;🎤 Presented our competition results at the Champions Forum (群英会), Chinese Congress of Radiology 2026, Beijing.
 - *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
 - *2026.11*: &nbsp;🏅 Received the First Prize at the award ceremony of the 2026 National Medical Insurance Imaging AI Competition.
-- *2026.11*: &nbsp;🏛️ Reported at the results-transfer meeting hosted by the Department of Science and Technology of Guangxi, as the first-prize team representative.
 - *2026.10*: &nbsp;🥇 First Prize (Final) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
 - *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight**!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
+- *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025.
+- *2025.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (Second Class).
+- *2024.10*: &nbsp;🏆 Received the National Scholarship.
+- *2024.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (First Class) for the second time.
+- *2023.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (First Class).
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/fig_cieg.jpg' alt="CIEG" width="100%"></div></div>
@@ -46,7 +50,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 **Runxun Zhang\***, Yizhou Liu, Dongrui Li, Bo Xu, Jingwei Wei\*
 
-[**arXiv**](https://arxiv.org/abs/2511.17392) &nbsp; [**CVF Open Access**](https://openaccess.thecvf.com/CVPR2026?day=all)
+[**arXiv**](https://arxiv.org/abs/2511.17392) &nbsp; [**CVF Open Access**](https://openaccess.thecvf.com/CVPR2026?day=all) &nbsp; [**Code**](https://github.com/cai114514/MorphSeek)
 - Reformulates deformable image registration as policy optimization in the latent feature space, trained with GRPO. Consistent Dice gains on OASIS, LiTS and Abdomen MR-CT with minimal parameter cost.
 </div>
 </div>
@@ -54,9 +58,11 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025</div><img src='images/icicm_pa.jpg' alt="PA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A 2.4–2.6 GHz CMOS High Linearity Power Amplifier with MGTR and Harmonic Trap Techniques
+[A 2.4–2.6 GHz CMOS High Linearity Power Amplifier with MGTR and Harmonic Trap Techniques](https://ieeexplore.ieee.org/abstract/document/11316054)
 
 **Runxun Zhang**, Gengzhen Qi
+
+[**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11316054)
 
 - Sole first-author work from my undergraduate research. A 65nm CMOS power amplifier that uses multi-gated transistors and a second-harmonic trap to improve linearity (post-layout: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm).
 </div>
@@ -106,7 +112,10 @@ Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
 
 # 🎖 Honors and Awards
 - *2026.10* First Prize (Final) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
-- *2024* National Scholarship (Undergraduate), Ministry of Education of China
+- *2025.10* Outstanding Undergraduate Scholarship (Second Class), Sun Yat-sen University
+- *2024.10* National Scholarship (Undergraduate), Ministry of Education of China
+- *2024.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
+- *2023.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
 - *2024.07* Third Prize (South China Region), 8th National College IC Innovation and Entrepreneurship Competition (IEEE Cup)
 - *2024.02* Honorable Mention, MCM (Mathematical Contest in Modeling)
 - *2023.12* Provincial Second Prize, 5th National College Mathematics Competition (Guangdong)
