@@ -21,8 +21,8 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 - *2026.11*: &nbsp;📺 Interviewed by [Xinhua News Agency](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin) on cross-disciplinary medical AI.
 - *2026.11*: &nbsp;🎤 Presented our competition results at the Champions Forum (群英会), Chinese Congress of Radiology 2026, Beijing.
 - *2026.11*: &nbsp;📄 New work on evidence governance for tool-augmented medical agents is out on arXiv!
-- *2026.11*: &nbsp;🏅 Received the First Prize at the award ceremony of the 2026 National Medical Insurance Imaging AI Competition.
-- *2026.10*: &nbsp;🥇 First Prize (Final) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
+- *2026.11*: &nbsp;🏅 Received the First Prize at the [award ceremony](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) of the 2026 National Medical Insurance Imaging AI Competition in Nanning.
+- *2026.10*: &nbsp;🥇 First Prize (one of 23 among 1,332 teams) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
 - *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight**!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
 - *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025.
@@ -80,22 +80,22 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 Algorithm lead, Team X-Vision (Institute of Automation, CAS).
 
+[**Official Report (NHSA)**](https://www.nhsa.gov.cn/art/2026/11/7/art_14_23329.html) &nbsp; [**Xinhua Interview**](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin)
+
+- The first national-level medical insurance imaging AI competition, co-hosted by the National Healthcare Security Administration and the Guangxi Government: 1,332 teams across 8 disease tracks, 23 First Prizes in total.
 - Designed the full algorithm pipeline: anatomy-aware quality control and a "consult-style" detector ensemble in which heterogeneous detectors nominate findings and an independent model reviews them before a learned arbiter makes the final call.
 - **1st place** in the preliminary round (124.37 pts) and **First Prize** in the final, chest X-ray self-built model group.
-- Presented the work at the final defense and the award ceremony in Nanning; the ceremony was covered by Guangxi News.
+- Presented at the final defense and the award ceremony in Nanning, where awards were presented by national and regional leaders. Interviewed by Xinhua News Agency, and invited to the results-transfer meeting hosted by the Guangxi Department of Science and Technology.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Clinical</div><img src='images/ccr2026_experts.jpg' alt="CCR 2026 with radiology experts" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**From Competition to Clinic: Recognition by Radiology Experts** (CCR 2026 Champions Forum · Xinhua interview)
-
-[**Xinhua Interview**](https://h.xinhuaxmt.com/vh512/share/13370906?docid=13370906&newstype=1001&d=13528f7&channel=weixin)
+**From Competition to Clinic: Recognition by Radiology Experts** (CCR 2026 Champions Forum, Beijing)
 
 - Invited to present our results at the Champions Forum (群英会) of the 33rd Chinese Congress of Radiology (CCR 2026, Beijing). Together with a core teammate, met Prof. Min Chen and Prof. Jie Lu, Chair and Vice Chair of the Chinese Society of Radiology (pictured).
 - In a 100k-case real-world screening cohort, reviewing the top 20% by risk score covered 93.7%–98.2% of positives for the evaluated findings. The model is in clinical demonstration with our partner team at Zhongda Hospital, Southeast University, and other tertiary hospitals.
-- Invited to the results-transfer meeting hosted by the Guangxi Department of Science and Technology, and interviewed by Xinhua News Agency on how algorithm, clinical and industry perspectives shape medical AI.
 </div>
 </div>
 
@@ -125,7 +125,7 @@ Core member, Mixed-Signal Integrated Systems Lab, Sun Yat-sen University.
 - **RF power amplifiers** (2023.12 - 2025.12): core member of the team that won the Third Prize (South China Region) at the 8th IEEE Cup IC Innovation and Entrepreneurship Competition with a 2.4 GHz switched-capacitor PA, and of two university innovation projects on NB-IoT transmitters and linearized PAs.
 
 # 🎖 Honors and Awards
-- *2026.10* First Prize (Final) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
+- *2026.10* First Prize (Final; one of 23 among 1,332 teams) and 1st place (Preliminary), 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group)
 - *2025.10* Outstanding Undergraduate Scholarship (Second Class), Sun Yat-sen University
 - *2024.10* National Scholarship (Undergraduate), Ministry of Education of China
 - *2024.10* Outstanding Undergraduate Scholarship (First Class), Sun Yat-sen University
