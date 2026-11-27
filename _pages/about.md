@@ -25,7 +25,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 - *2026.10*: &nbsp;🥇 First Prize (one of 23 among 1,332 teams) in the 2026 National Medical Insurance Imaging AI Competition, Track 8 (chest X-ray, self-built model group); ranked 1st in the preliminary round.
 - *2026.02*: &nbsp;🎉 MorphSeek was accepted by CVPR 2026 as a **Highlight**!
 - *2025.11*: &nbsp;📄 MorphSeek is released on arXiv.
-- *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025.
+- *2025.10*: &nbsp;📄 One paper on CMOS power amplifiers was accepted by ICICM 2025 as an **oral** presentation.
 - *2025.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (Second Class).
 - *2024.10*: &nbsp;🏆 Received the National Scholarship.
 - *2024.10*: &nbsp;🎓 Received the Sun Yat-sen University Outstanding Undergraduate Scholarship (First Class) for the second time.
@@ -56,7 +56,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025</div><img src='images/icicm_pa.jpg' alt="PA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICM 2025 Oral</div><img src='images/icicm_pa.jpg' alt="PA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A 2.4–2.6 GHz CMOS High Linearity Power Amplifier with MGTR and Harmonic Trap Techniques](https://ieeexplore.ieee.org/abstract/document/11316054)
@@ -65,7 +65,7 @@ For collaborations or questions, feel free to reach me at zhangrunxun2026[at]ia.
 
 [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11316054)
 
-- Sole first-author work from my undergraduate research. A 65nm CMOS power amplifier that uses multi-gated transistors and a second-harmonic trap to improve linearity (post-layout: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm).
+- Sole first-author work from my undergraduate research, presented as an **oral** talk at ICICM 2025, Anhui University, Hefei. A 65nm CMOS power amplifier that uses multi-gated transistors and a second-harmonic trap to improve linearity (post-layout: Psat 30.32 dBm, OP1dB 28.48 dBm, OIP3 38.58 dBm).
 </div>
 </div>
 
